@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/RenanArantes.png',
     alt: 'Rdev',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
