@@ -1,0 +1,2 @@
+import{e as o,B as r}from"./index.923b9a4a.js";import{j as e}from"./jsx-runtime.edc55e8b.js";import"./index.22ee776f.js";import"./iframe.16112394.js";import"./index.3c14f4bc.js";const p={title:"Data Display/Tooltip",component:o,args:{data:String(new Date),text:"Tooltip"},decorators:[t=>e(r,{style:{display:"flex",flexDirection:"column",gap:10,alignItems:"center",margin:10},children:t()})]},m={},c={args:{delayDuration:2e3}},d=["Primary","Delayed"];export{c as Delayed,m as Primary,d as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories.b2383ec1.js.map
